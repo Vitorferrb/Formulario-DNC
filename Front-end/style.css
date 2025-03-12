@@ -14,6 +14,10 @@ body {
   margin: 0;
 }
 
+header img {
+  box-shadow: ;
+}
+
 /* Div central*/
 .container-form {
   display: flex;

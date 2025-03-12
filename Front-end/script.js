@@ -16,3 +16,5 @@ inputTelefone.addEventListener("input", (event) => {
 
   event.target.value = formatado;
 });
+
+//tetste
